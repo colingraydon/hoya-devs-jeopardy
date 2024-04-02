@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "name": "Science",
+      "questions": [
+        {
+          "points": 100,
+          "question": "What is the chemical symbol for gold?",
+          "answer": "Au",
+          "answered": false
+        },
+        {
+          "points": 200,
+          "question": "In physics, what law states that for every action, there is an equal and opposite reaction?",
+          "answer": "Newton's Third Law of Motion",
+          "answered": false
+        },
+        {
+          "points": 300,
+          "question": "What is the largest organ in the human body?",
+          "answer": "Skin",
+          "answered": false
+        },
+        {
+          "points": 400,
+          "question": "What is the process by which plants make their own food called?",
+          "answer": "Photosynthesis",
+          "answered": false
+        },
+        {
+          "points": 500,
+          "question": "Which famous scientist developed the theory of relativity?",
+          "answer": "Albert Einstein",
+          "answered": false
+        }
+      ]
+    },
+    {
+      "name": "Literature",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Who wrote the novel 'To Kill a Mockingbird'?",
+          "answer": "Harper Lee",
+          "answered": false
+        },
+        {
+          "points": 200,
+          "question": "What is the name of the character in 'Hamlet' who delivers the famous soliloquy that begins with 'To be, or not to be'?",
+          "answer": "Hamlet",
+          "answered": false
+        },
+        {
+          "points": 300,
+          "question": "In which novel would you find the character Jay Gatsby?",
+          "answer": "The Great Gatsby",
+          "answered": false
+        },
+        {
+          "points": 400,
+          "question": "Which author wrote the 'Harry Potter' series?",
+          "answer": "J.K. Rowling",
+          "answered": false
+        },
+        {
+          "points": 500,
+          "question": "What is the subtitle of Charles Dickens' novel 'A Tale of Two Cities'?",
+          "answer": "A Story of the French Revolution",
+          "answered": false
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Who was the first President of the United States?",
+          "answer": "George Washington",
+          "answered": false
+        },
+        {
+          "points": 200,
+          "question": "What year did World War II end?",
+          "answer": "1945",
+          "answered": false
+        },
+        {
+          "points": 300,
+          "question": "What ancient civilization built the Great Pyramids of Giza?",
+          "answer": "Ancient Egyptians",
+          "answered": false
+        },
+        {
+          "points": 400,
+          "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+          "answer": "Amelia Earhart",
+          "answered": false
+        },
+        {
+          "points": 500,
+          "question": "What was the name of the ship on which Charles Darwin sailed when he formulated his theory of evolution?",
+          "answer": "HMS Beagle",
+          "answered": false
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "questions": [
+        {
+          "points": 100,
+          "question": "What is the capital city of Japan?",
+          "answer": "Tokyo",
+          "answered": false
+        },
+        {
+          "points": 200,
+          "question": "What is the longest river in the world?",
+          "answer": "The Nile River",
+          "answered": false
+        },
+        {
+          "points": 300,
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "answer": "Japan",
+          "answered": false
+        },
+        {
+          "points": 400,
+          "question": "What is the smallest country in the world?",
+          "answer": "Vatican City",
+          "answered": false
+        },
+        {
+          "points": 500,
+          "question": "What is the highest mountain in Africa?",
+          "answer": "Mount Kilimanjaro",
+          "answered": false
+        }
+      ]
+    },
+    {
+      "name": "Pop Culture",
+      "questions": [
+        {
+          "points": 100,
+          "question": "Who played the character of Neo in the movie 'The Matrix'?",
+          "answer": "Keanu Reeves",
+          "answered": false
+        },
+        {
+          "points": 200,
+          "question": "What is the highest-grossing film of all time?",
+          "answer": "Avengers: Endgame",
+          "answered": false
+        },
+        {
+          "points": 300,
+          "question": "Which singer is known as the Queen of Pop?",
+          "answer": "Madonna",
+          "answered": false
+        },
+        {
+          "points": 400,
+          "question": "Who is the creator of the TV series 'The Simpsons'?",
+          "answer": "Matt Groening",
+          "answered": false
+        },
+        {
+          "points": 500,
+          "question": "What is the name of the fictional wizarding school in the 'Harry Potter' series?",
+          "answer": "Hogwarts School of Witchcraft and Wizardry",
+          "answered": false
+        }
+      ]
+    }
+  ]
+}
