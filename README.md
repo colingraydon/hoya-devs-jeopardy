@@ -20,6 +20,24 @@ The frontend should be able to:
 - Display the question and allow the user to answer it
 - Keep track of the score
 
+## How to run
+
+To run this project, please cd into the backend directory and type 
+
+`npm run watch`
+
+Then, open another terminal and run 
+
+`npm run dev`
+
+Then, cd into the frontend directory and type
+
+`npm run start`
+
+This should start the backend server on port 4000 and the frontend on port 3000. To access the frontend, navigate your web browser to 
+
+`localhost:3000`
+
 ## Stretch Goals
 
 We'll only have enough time in class to complete the basic skeleton of the project. You'll need to complete the styling and CSS outside of class. I'd really recommend thinking about display: flex.
