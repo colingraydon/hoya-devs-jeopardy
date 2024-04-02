@@ -2,14 +2,39 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
+}
+
+.title {
+  height: 20px;
+}
+
+button {
+  background-color: #f0f0f0;
+  border: 1px solid #f0f0f0;
+  border-radius: 80%;
+  border-width: 1px;
+  padding: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-left: 1px;
+  margin-right: 1px;
+  border-color: black;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+button:active {
+  background-color: #d0d0d0;
 }
 
 .points {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  height: 40px;
+  margin-top: 20px;
 }

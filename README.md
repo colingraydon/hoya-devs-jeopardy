@@ -22,4 +22,4 @@ The frontend should be able to:
 
 ## Stretch Goals
 
-We'll only have enough time in class to complete the basic skeleton of the project. You'll need to complete the styling and CSS outside of class.
+We'll only have enough time in class to complete the basic skeleton of the project. You'll need to complete the styling and CSS outside of class. I'd really recommend thinking about display: flex.

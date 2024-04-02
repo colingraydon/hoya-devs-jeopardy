@@ -1,4 +1,5 @@
 import React from "react";
+import "./Question.css";
 
 interface QuestionProps {
   points: number;
@@ -20,10 +21,19 @@ const Question: React.FC<QuestionProps> = ({ points, question, answer }) => {
     setIsBeingAnswered(true);
   };
 
-  if (answered) return <div>{answer}</div>;
-  if (isBeingAnswered) return <div onClick={handleClick}>{question}</div>;
+  if (answered) return <div className="question">{answer}</div>;
+  if (isBeingAnswered)
+    return (
+      <div className="question" onClick={handleClick}>
+        {question}
+      </div>
+    );
 
-  return <div onClick={handleClick}>{points}</div>;
+  return (
+    <div className="question" onClick={handleClick}>
+      {points}
+    </div>
+  );
 };
 
 export default Question;

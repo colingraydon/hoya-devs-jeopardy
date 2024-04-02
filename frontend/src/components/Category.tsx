@@ -1,6 +1,7 @@
 import React from "react";
 import { QuestionType } from "../types";
 import Question from "./Question";
+import "./Category.css";
 
 interface CategoryProps {
   title: string;
@@ -10,7 +11,7 @@ interface CategoryProps {
 const Category: React.FC<CategoryProps> = ({ title, questions }) => {
   return (
     <div>
-      <h2>{title}</h2>
+      <h2 className="category">{title}</h2>
       <div>
         {questions.map((question, index) => (
           <Question

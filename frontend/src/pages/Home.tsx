@@ -32,7 +32,7 @@ const Home: React.FC = () => {
 
   return (
     <div>
-      <Title />
+      {/* <Title /> */}
       <Gameboard categories={data!} />
       <Teams />
     </div>
